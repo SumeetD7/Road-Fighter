@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg13"
+   sodipodi:docname="testEnemyY.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="1.84375"
+     inkscape:cx="64"
+     inkscape:cy="64"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg13" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">
+      .cls-1 {
+        fill: red;
+      }
+
+      .cls-2 {
+        fill: red;
+      }
+
+      .cls-3 {
+        fill: lime;
+      }
+
+      .cls-4 {
+        fill: blue;
+      }
+    </style>
+  </defs>
+  <rect
+     class="cls-1"
+     width="128"
+     height="128"
+     id="rect6" />
+  <rect
+     class="cls-2"
+     width="20"
+     height="20"
+     id="rect8" />
+  <rect
+     id="Rectangle_2_copy"
+     data-name="Rectangle 2 copy"
+     class="cls-3"
+     x="108"
+     width="20"
+     height="20" />
+  <rect
+     id="Rectangle_2_copy_2"
+     data-name="Rectangle 2 copy 2"
+     class="cls-4"
+     x="108"
+     y="108"
+     width="20"
+     height="20" />
+  <rect
+     id="Rectangle_2_copy_3"
+     data-name="Rectangle 2 copy 3"
+     y="108"
+     width="20"
+     height="20" />
+  <path
+     style="fill:#ffcc00;stroke-width:0.54237288"
+     d="m 20.176271,117.80339 v -9.76271 H 10.142373 0.10847458 V 54.074576 0.10847458 H 53.791154 107.47383 l 0.14783,9.89830542 0.14783,9.898305 9.89831,0.147828 9.8983,0.147828 v 43.636547 43.636542 l -9.8983,0.14783 -9.89831,0.14783 -0.14783,9.89831 -0.14783,9.8983 H 63.825052 20.176271 Z"
+     id="path21"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffff00;stroke-width:0.54237288"
+     d="m 20.610169,117.80339 v -9.76271 H 10.576271 0.54237288 V 54.074576 0.10847458 H 53.966102 107.38983 V 10.142373 20.176271 h 10.0339 10.0339 v 43.661017 43.661022 h -10.0339 -10.0339 v 10.03389 10.0339 H 64 20.610169 Z"
+     id="path24"
+     inkscape:connector-curvature="0" />
+</svg>
